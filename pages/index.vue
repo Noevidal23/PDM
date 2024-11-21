@@ -1,8 +1,8 @@
 <template>
   <UContainer
-    class="flex flex-col gap-4 items-center w-10/12 md:w-1/3 shadow-lg rounded-md py-12"
+    class="flex flex-col gap-4 items-center w-10/12 md:w-1/3 shadow-lg rounded-md py-12 mt-20"
   >
-    <h1>Iniciar Sesion</h1>
+    <h1 class="font-medium text-xl text-center">Iniciar Sesion</h1>
     <UInput
       placeholder="Email"
       color="white"
