@@ -1,0 +1,498 @@
+[
+  {
+    "id": 1,
+    "nombre": "ACACOYAGUA"
+  },
+  {
+    "id": 2,
+    "nombre": "ACALA"
+  },
+  {
+    "id": 3,
+    "nombre": "ACAPETAHUA"
+  },
+  {
+    "id": 4,
+    "nombre": "ALTAMIRANO"
+  },
+  {
+    "id": 5,
+    "nombre": "AMATAN"
+  },
+  {
+    "id": 6,
+    "nombre": "AMATENANGO DE LA FRONTERA"
+  },
+  {
+    "id": 7,
+    "nombre": "AMATENANGO DEL VALLE"
+  },
+  {
+    "id": 8,
+    "nombre": "ANGEL ALBINO CORZO"
+  },
+  {
+    "id": 9,
+    "nombre": "ARRIAGA"
+  },
+  {
+    "id": 10,
+    "nombre": "BEJUCAL DE OCAMPO"
+  },
+  {
+    "id": 11,
+    "nombre": "BELLA VISTA"
+  },
+  {
+    "id": 12,
+    "nombre": "BERRIOZABAL"
+  },
+  {
+    "id": 13,
+    "nombre": "BOCHIL"
+  },
+  {
+    "id": 14,
+    "nombre": "EL BOSQUE"
+  },
+  {
+    "id": 15,
+    "nombre": "CACAHOATAN"
+  },
+  {
+    "id": 16,
+    "nombre": "CATAZAJA"
+  },
+  {
+    "id": 17,
+    "nombre": "CINTALAPA"
+  },
+  {
+    "id": 18,
+    "nombre": "COAPILLA"
+  },
+  {
+    "id": 19,
+    "nombre": "COMITAN DE DOMINGUEZ"
+  },
+  {
+    "id": 20,
+    "nombre": "LA CONCORDIA"
+  },
+  {
+    "id": 21,
+    "nombre": "COPAINALA"
+  },
+  {
+    "id": 22,
+    "nombre": "CHALCHIHUITAN"
+  },
+  {
+    "id": 23,
+    "nombre": "CHAMULA"
+  },
+  {
+    "id": 24,
+    "nombre": "CHANAL"
+  },
+  {
+    "id": 25,
+    "nombre": "CHAPULTENANGO"
+  },
+  {
+    "id": 26,
+    "nombre": "CHENALHO"
+  },
+  {
+    "id": 27,
+    "nombre": "CHIAPA DE CORZO"
+  },
+  {
+    "id": 28,
+    "nombre": "CHIAPILLA"
+  },
+  {
+    "id": 29,
+    "nombre": "CHICOASEN"
+  },
+  {
+    "id": 30,
+    "nombre": "CHICOMUSELO"
+  },
+  {
+    "id": 31,
+    "nombre": "CHILON"
+  },
+  {
+    "id": 32,
+    "nombre": "ESCUINTLA"
+  },
+  {
+    "id": 33,
+    "nombre": "FRANCISCO LEON"
+  },
+  {
+    "id": 34,
+    "nombre": "FRONTERA COMALAPA"
+  },
+  {
+    "id": 35,
+    "nombre": "FRONTERA HIDALGO"
+  },
+  {
+    "id": 36,
+    "nombre": "LA GRANDEZA"
+  },
+  {
+    "id": 37,
+    "nombre": "HUEHUETAN"
+  },
+  {
+    "id": 38,
+    "nombre": "HUITIUPAN"
+  },
+  {
+    "id": 39,
+    "nombre": "HUIXTAN"
+  },
+  {
+    "id": 40,
+    "nombre": "HUIXTLA"
+  },
+  {
+    "id": 41,
+    "nombre": "LA INDEPENDENCIA"
+  },
+  {
+    "id": 42,
+    "nombre": "IXHUATAN"
+  },
+  {
+    "id": 43,
+    "nombre": "IXTACOMITAN"
+  },
+  {
+    "id": 44,
+    "nombre": "IXTAPA"
+  },
+  {
+    "id": 45,
+    "nombre": "IXTAPANGAJOYA"
+  },
+  {
+    "id": 46,
+    "nombre": "JIQUIPILAS"
+  },
+  {
+    "id": 47,
+    "nombre": "JITOTOL"
+  },
+  {
+    "id": 48,
+    "nombre": "JUAREZ"
+  },
+  {
+    "id": 49,
+    "nombre": "LARRAINZAR"
+  },
+  {
+    "id": 50,
+    "nombre": "LA LIBERTAD"
+  },
+  {
+    "id": 51,
+    "nombre": "MAPASTEPEC"
+  },
+  {
+    "id": 52,
+    "nombre": "LAS MARGARITAS"
+  },
+  {
+    "id": 53,
+    "nombre": "MAZAPA DE MADERO"
+  },
+  {
+    "id": 54,
+    "nombre": "MAZATAN"
+  },
+  {
+    "id": 55,
+    "nombre": "METAPA"
+  },
+  {
+    "id": 56,
+    "nombre": "MITONTIC"
+  },
+  {
+    "id": 57,
+    "nombre": "MOTOZINTLA"
+  },
+  {
+    "id": 58,
+    "nombre": "NICOLAS RUIZ"
+  },
+  {
+    "id": 59,
+    "nombre": "OCOSINGO"
+  },
+  {
+    "id": 60,
+    "nombre": "OCOTEPEC"
+  },
+  {
+    "id": 61,
+    "nombre": "OCOZOCOAUTLA DE ESPINOSA"
+  },
+  {
+    "id": 62,
+    "nombre": "OSTUACAN"
+  },
+  {
+    "id": 63,
+    "nombre": "OSUMACINTA"
+  },
+  {
+    "id": 64,
+    "nombre": "OXCHUC"
+  },
+  {
+    "id": 65,
+    "nombre": "PALENQUE"
+  },
+  {
+    "id": 66,
+    "nombre": "PANTELHO"
+  },
+  {
+    "id": 67,
+    "nombre": "PANTEPEC"
+  },
+  {
+    "id": 68,
+    "nombre": "PICHUCALCO"
+  },
+  {
+    "id": 69,
+    "nombre": "PIJIJIAPAN"
+  },
+  {
+    "id": 70,
+    "nombre": "EL PORVENIR"
+  },
+  {
+    "id": 71,
+    "nombre": "PUEBLO NUEVO SOLISTAHUACAN"
+  },
+  {
+    "id": 72,
+    "nombre": "RAYON"
+  },
+  {
+    "id": 73,
+    "nombre": "REFORMA"
+  },
+  {
+    "id": 74,
+    "nombre": "LAS ROSAS"
+  },
+  {
+    "id": 75,
+    "nombre": "SABANILLA"
+  },
+  {
+    "id": 76,
+    "nombre": "SALTO DE AGUA"
+  },
+  {
+    "id": 77,
+    "nombre": "SAN CRISTOBAL DE LAS CASAS"
+  },
+  {
+    "id": 78,
+    "nombre": "SAN FERNANDO"
+  },
+  {
+    "id": 79,
+    "nombre": "SAN JUAN CANCUC"
+  },
+  {
+    "id": 80,
+    "nombre": "SAN LUCAS"
+  },
+  {
+    "id": 81,
+    "nombre": "SILTEPEC"
+  },
+  {
+    "id": 82,
+    "nombre": "SIMOJOVEL"
+  },
+  {
+    "id": 83,
+    "nombre": "SITALA"
+  },
+  {
+    "id": 84,
+    "nombre": "SOCOLTENANGO"
+  },
+  {
+    "id": 85,
+    "nombre": "SOLOSUCHIAPA"
+  },
+  {
+    "id": 86,
+    "nombre": "SOYALO"
+  },
+  {
+    "id": 87,
+    "nombre": "SUCHIAPA"
+  },
+  {
+    "id": 88,
+    "nombre": "SUCHIATE"
+  },
+  {
+    "id": 89,
+    "nombre": "SUNUAPA"
+  },
+  {
+    "id": 90,
+    "nombre": "TAPACHULA"
+  },
+  {
+    "id": 91,
+    "nombre": "TAPALAPA"
+  },
+  {
+    "id": 92,
+    "nombre": "TAPILULA"
+  },
+  {
+    "id": 93,
+    "nombre": "TECPATAN"
+  },
+  {
+    "id": 94,
+    "nombre": "TENEJAPA"
+  },
+  {
+    "id": 95,
+    "nombre": "TEOPISCA"
+  },
+  {
+    "id": 96,
+    "nombre": "TILA"
+  },
+  {
+    "id": 97,
+    "nombre": "TONALA"
+  },
+  {
+    "id": 98,
+    "nombre": "TOTOLAPA"
+  },
+  {
+    "id": 99,
+    "nombre": "LA TRINITARIA"
+  },
+  {
+    "id": 100,
+    "nombre": "TUMBALA"
+  },
+  {
+    "id": 101,
+    "nombre": "TUXTLA CHICO"
+  },
+  {
+    "id": 102,
+    "nombre": "TUXTLA GUTIERREZ"
+  },
+  {
+    "id": 103,
+    "nombre": "TUZANTAN"
+  },
+  {
+    "id": 104,
+    "nombre": "TZIMOL"
+  },
+  {
+    "id": 105,
+    "nombre": "UNION JUAREZ"
+  },
+  {
+    "id": 106,
+    "nombre": "VENUSTIANO CARRANZA"
+  },
+  {
+    "id": 107,
+    "nombre": "VILLACOMALTITLAN"
+  },
+  {
+    "id": 108,
+    "nombre": "VILLA CORZO"
+  },
+  {
+    "id": 109,
+    "nombre": "VILLAFLORES"
+  },
+  {
+    "id": 110,
+    "nombre": "YAJALON"
+  },
+  {
+    "id": 111,
+    "nombre": "ZINACANTAN"
+  },
+  {
+    "id": 112,
+    "nombre": "ALDAMA"
+  },
+  {
+    "id": 113,
+    "nombre": "BENEMERITO DE LAS AMERICAS"
+  },
+  {
+    "id": 114,
+    "nombre": "MARAVILLA TENEJAPA"
+  },
+  {
+    "id": 115,
+    "nombre": "MARQUES DE COMILLAS"
+  },
+  {
+    "id": 116,
+    "nombre": "MONTECRISTO DE GUERRERO"
+  },
+  {
+    "id": 117,
+    "nombre": "SAN ANDRES DURAZNAL"
+  },
+  {
+    "id": 118,
+    "nombre": "SANTIAGO EL PINAR"
+  },
+  {
+    "id": 119,
+    "nombre": "CAPITAN LUIS ANGEL VIDAL"
+  },
+  {
+    "id": 120,
+    "nombre": "RINCON CHAMULA SAN PEDRO"
+  },
+  {
+    "id": 121,
+    "nombre": "EL PARRAL"
+  },
+  {
+    "id": 122,
+    "nombre": "EMILIANO ZAPATA"
+  },
+  {
+    "id": 123,
+    "nombre": "MEZCALAPA"
+  },
+  {
+    "id": 124,
+    "nombre": "HONDURAS DE LA SIERRA"
+  }
+]
